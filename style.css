@@ -1,0 +1,30 @@
+h1{
+    color: brown;
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+form input{
+    color: brown;
+    border: solid 2px rgb(245, 217, 164) ;
+    background-color: wheat;
+    padding: 4px;
+    border-radius: 3px;
+}
+form label{
+    color: brown;
+    font-size: 25px;
+}
+button{
+    color: brown;
+    border: solid 2px rgb(245, 217, 164) ;
+    background-color: wheat;
+    padding: 4px;
+    border-radius: 3px;
+}
+#dateIs{
+    color: brown;
+    text-align: center;
+    font-size: 20px;
+}
